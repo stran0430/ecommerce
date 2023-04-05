@@ -1,11 +1,14 @@
 # E-Commerce Back-End
 
 ## User Story
+```
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
+```
 
 ## Acceptance Criteria
+```md
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
@@ -17,7 +20,7 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
-
+```
 ## Description
 The back end for an e-commerce site that uses Express.js API and Sequelize to interact with a MySQL database.
 
@@ -26,7 +29,6 @@ The back end for an e-commerce site that uses Express.js API and Sequelize to in
 - [Repo URL](#Repo-URL)
 - [Features](#Features)
 - [Pre-Requisites](#Pre-Requisites)
-- [Installation](#Installation)
 - [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
 
