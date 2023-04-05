@@ -17,7 +17,7 @@ The back end for an e-commerce site that uses Express.js API and Sequelize to in
 This is a back-end application. It is not deployed online.
 
 ### Repo URL
-https://github.com/stran0430/e-commerce-back-end
+https://github.com/stran0430/ecommerce
 
 ## Features
 1. Easy-to-use back-end application.
